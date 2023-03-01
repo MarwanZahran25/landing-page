@@ -114,3 +114,43 @@ ul{
     margin-right: 40px;
     font-size: 20px;
 }
+.fifth-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+}
+.fifth-section .blue{
+    background-color: #3882f6;
+    display: flex;
+    justify-content: space-between;
+    padding: 25px 100px;
+    border-radius: 7px;
+    
+}
+.fifth-section .text{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-right:200px;
+    
+}
+.fifth-section .text .bold{
+    font-size: 36px;
+    color: #e5e7eb;
+    margin: 0;
+}
+.fifth-section button{
+    background-color: #3882f6;
+    width: 150px;
+    padding: 10px;
+    align-self: flex-start;
+    border-radius: 10px;
+    border: 2px solid white;
+    height: 50px;
+    align-self: center;
+}
+.fifth-section .text .sub-text{
+    color: #e5e7eb;
+    font-size: 18px;
+}
