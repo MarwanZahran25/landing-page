@@ -63,6 +63,8 @@ ul{
     align-self: flex-start;
     border-radius: 10px;
     border: 0;
+    color: #e5e7eb;
+    font-size: 18px;
 }
 .third-section{
     display:flex;
@@ -126,6 +128,7 @@ ul{
     justify-content: space-between;
     padding: 25px 100px;
     border-radius: 7px;
+    color: #f9faf8;
     
 }
 .fifth-section .text{
@@ -133,6 +136,7 @@ ul{
     flex-direction: column;
     justify-content: center;
     margin-right:200px;
+
     
 }
 .fifth-section .text .bold{
@@ -149,6 +153,8 @@ ul{
     border: 2px solid white;
     height: 50px;
     align-self: center;
+    color: #e5e7eb;
+    font-weight: bold;
 }
 .fifth-section .text .sub-text{
     color: #e5e7eb;
